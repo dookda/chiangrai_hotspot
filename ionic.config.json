@@ -1,0 +1,7 @@
+{
+  "name": "chiangrai_hotspot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
